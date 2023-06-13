@@ -1,0 +1,10 @@
+* shadchen
+
+shadchen is a common lisp pattern matching library.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/VincentToups/shadchen.git   |
+| commit  | c6a54e3  |
+| systems | shadchen |
+|---------+-------------------------------------------|
+
